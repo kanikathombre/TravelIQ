@@ -1,0 +1,122 @@
+destination_name,state_region,destination_type,month,month_num
+Agartala,Tripura,Culture & Heritage,January,1
+Agartala,Tripura,Culture & Heritage,February,2
+Agartala,Tripura,Culture & Heritage,March,3
+Agartala,Tripura,Culture & Heritage,October,10
+Agartala,Tripura,Culture & Heritage,November,11
+Agartala,Tripura,Culture & Heritage,December,12
+Amritsar,Punjab,Heritage & Culture,January,1
+Amritsar,Punjab,Heritage & Culture,February,2
+Amritsar,Punjab,Heritage & Culture,March,3
+Amritsar,Punjab,Heritage & Culture,October,10
+Amritsar,Punjab,Heritage & Culture,November,11
+Amritsar,Punjab,Heritage & Culture,December,12
+Bundi,Rajasthan,Heritage & Culture,January,1
+Bundi,Rajasthan,Heritage & Culture,February,2
+Bundi,Rajasthan,Heritage & Culture,March,3
+Bundi,Rajasthan,Heritage & Culture,October,10
+Bundi,Rajasthan,Heritage & Culture,November,11
+Bundi,Rajasthan,Heritage & Culture,December,12
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,January,1
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,February,2
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,March,3
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,October,10
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,November,11
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,December,12
+Gangtok,Sikkim,Mountain & Nature,March,3
+Gangtok,Sikkim,Mountain & Nature,April,4
+Gangtok,Sikkim,Mountain & Nature,May,5
+Gangtok,Sikkim,Mountain & Nature,October,10
+Gangtok,Sikkim,Mountain & Nature,November,11
+Gangtok,Sikkim,Mountain & Nature,December,12
+Gwalior,Madhya Pradesh,Heritage & Culture,January,1
+Gwalior,Madhya Pradesh,Heritage & Culture,February,2
+Gwalior,Madhya Pradesh,Heritage & Culture,March,3
+Gwalior,Madhya Pradesh,Heritage & Culture,October,10
+Gwalior,Madhya Pradesh,Heritage & Culture,November,11
+Gwalior,Madhya Pradesh,Heritage & Culture,December,12
+Hampi,Karnataka,Heritage,January,1
+Hampi,Karnataka,Heritage,February,2
+Hampi,Karnataka,Heritage,October,10
+Hampi,Karnataka,Heritage,November,11
+Hampi,Karnataka,Heritage,December,12
+Jodhpur,Rajasthan,Heritage & Culture,January,1
+Jodhpur,Rajasthan,Heritage & Culture,February,2
+Jodhpur,Rajasthan,Heritage & Culture,March,3
+Jodhpur,Rajasthan,Heritage & Culture,October,10
+Jodhpur,Rajasthan,Heritage & Culture,November,11
+Jodhpur,Rajasthan,Heritage & Culture,December,12
+Kapurthala,Punjab,Heritage & Culture,January,1
+Kapurthala,Punjab,Heritage & Culture,February,2
+Kapurthala,Punjab,Heritage & Culture,March,3
+Kapurthala,Punjab,Heritage & Culture,October,10
+Kapurthala,Punjab,Heritage & Culture,November,11
+Kapurthala,Punjab,Heritage & Culture,December,12
+Kargil,Ladakh,Mountain & Heritage,May,5
+Kargil,Ladakh,Mountain & Heritage,June,6
+Kargil,Ladakh,Mountain & Heritage,July,7
+Kargil,Ladakh,Mountain & Heritage,August,8
+Kargil,Ladakh,Mountain & Heritage,September,9
+Kumarakom,Kerala,Backwaters & Nature,January,1
+Kumarakom,Kerala,Backwaters & Nature,February,2
+Kumarakom,Kerala,Backwaters & Nature,March,3
+Kumarakom,Kerala,Backwaters & Nature,October,10
+Kumarakom,Kerala,Backwaters & Nature,November,11
+Kumarakom,Kerala,Backwaters & Nature,December,12
+Lakshadweep,Lakshadweep,Beach & Island,January,1
+Lakshadweep,Lakshadweep,Beach & Island,February,2
+Lakshadweep,Lakshadweep,Beach & Island,March,3
+Lakshadweep,Lakshadweep,Beach & Island,October,10
+Lakshadweep,Lakshadweep,Beach & Island,November,11
+Lakshadweep,Lakshadweep,Beach & Island,December,12
+Leh,Ladakh,Mountain & Adventure,May,5
+Leh,Ladakh,Mountain & Adventure,June,6
+Leh,Ladakh,Mountain & Adventure,July,7
+Leh,Ladakh,Mountain & Adventure,August,8
+Leh,Ladakh,Mountain & Adventure,September,9
+Mamallapuram,Tamil Nadu,Heritage & Beach,January,1
+Mamallapuram,Tamil Nadu,Heritage & Beach,February,2
+Mamallapuram,Tamil Nadu,Heritage & Beach,March,3
+Mamallapuram,Tamil Nadu,Heritage & Beach,October,10
+Mamallapuram,Tamil Nadu,Heritage & Beach,November,11
+Mamallapuram,Tamil Nadu,Heritage & Beach,December,12
+Mysuru,Karnataka,Heritage & Culture,January,1
+Mysuru,Karnataka,Heritage & Culture,February,2
+Mysuru,Karnataka,Heritage & Culture,October,10
+Mysuru,Karnataka,Heritage & Culture,November,11
+Mysuru,Karnataka,Heritage & Culture,December,12
+Nilgiris,Tamil Nadu,Hill Station & Nature,January,1
+Nilgiris,Tamil Nadu,Hill Station & Nature,February,2
+Nilgiris,Tamil Nadu,Hill Station & Nature,March,3
+Nilgiris,Tamil Nadu,Hill Station & Nature,April,4
+Nilgiris,Tamil Nadu,Hill Station & Nature,May,5
+Nilgiris,Tamil Nadu,Hill Station & Nature,June,6
+Nilgiris,Tamil Nadu,Hill Station & Nature,October,10
+Nilgiris,Tamil Nadu,Hill Station & Nature,November,11
+Nilgiris,Tamil Nadu,Hill Station & Nature,December,12
+Puducherry,Puducherry,Beach & Culture,January,1
+Puducherry,Puducherry,Beach & Culture,February,2
+Puducherry,Puducherry,Beach & Culture,March,3
+Puducherry,Puducherry,Beach & Culture,October,10
+Puducherry,Puducherry,Beach & Culture,November,11
+Puducherry,Puducherry,Beach & Culture,December,12
+Shillong,Meghalaya,Hill Station & Nature,January,1
+Shillong,Meghalaya,Hill Station & Nature,February,2
+Shillong,Meghalaya,Hill Station & Nature,March,3
+Shillong,Meghalaya,Hill Station & Nature,April,4
+Shillong,Meghalaya,Hill Station & Nature,October,10
+Shillong,Meghalaya,Hill Station & Nature,November,11
+Shillong,Meghalaya,Hill Station & Nature,December,12
+Sohra,Meghalaya,Nature & Adventure,January,1
+Sohra,Meghalaya,Nature & Adventure,February,2
+Sohra,Meghalaya,Nature & Adventure,March,3
+Sohra,Meghalaya,Nature & Adventure,April,4
+Sohra,Meghalaya,Nature & Adventure,October,10
+Sohra,Meghalaya,Nature & Adventure,November,11
+Sohra,Meghalaya,Nature & Adventure,December,12
+Unakoti,Tripura,Heritage & Nature,January,1
+Unakoti,Tripura,Heritage & Nature,February,2
+Unakoti,Tripura,Heritage & Nature,March,3
+Unakoti,Tripura,Heritage & Nature,October,10
+Unakoti,Tripura,Heritage & Nature,November,11
+Unakoti,Tripura,Heritage & Nature,December,12

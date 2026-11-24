@@ -1,0 +1,17 @@
+
+{
+  "name": "TravelIQ Dark Lime",
+  "dataColors": [
+    "#C7F36B",
+    "#8BC34A",
+    "#65A30D",
+    "#DDE7C7",
+    "#9AA89A",
+    "#6F8070",
+    "#F2C14E",
+    "#4CB5AE"
+  ],
+  "background": "#111512",
+  "foreground": "#F3F5EF",
+  "tableAccent": "#C7F36B"
+}

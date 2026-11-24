@@ -1,0 +1,32 @@
+column_name,description,source,data_type,status
+destination_id,Unique identifier for each destination,TRAVELIQ,string,Derived
+destination_name,User-facing name of the travel destination,TRAVELIQ,string,Static/Derived
+country,Destination country,Country dataset,string,Static
+country_code,Country code,Country dataset,string,Static
+city,Destination city,Destination dataset,string,Static
+region,State province or geographic region,Destination dataset,string,Static
+continent,Continent containing the destination,Country or geographic dataset,string,Static
+latitude,Geographic latitude of destination,Geographic dataset,float,Static
+longitude,Geographic longitude of destination,Geographic dataset,float,Static
+destination_type,Primary type of destination such as beach city mountain or wildlife,TRAVELIQ methodology,string,Derived
+tourist_rating,Tourist or destination rating,Destination data source,float,Static
+safety_score,Safety indicator for the destination,Safety data source,float,Static
+avg_daily_cost,Estimated average daily travel cost,Cost data sources,float,Estimated
+accommodation_cost,Estimated daily accommodation cost,Cost data sources,float,Estimated
+food_cost,Estimated daily food cost,Cost data sources,float,Estimated
+transport_cost,Estimated local transportation cost,Cost data sources,float,Estimated
+activity_cost,Estimated activities and attractions cost,Cost data sources,float,Estimated
+best_months,Recommended months for visiting the destination,Weather or tourism source,string,Derived
+recommended_stay_days,Recommended typical duration of stay,Travel data source or TRAVELIQ methodology,integer,Derived
+currency,Local currency used at the destination,Country data source,string,Static
+visa_requirement,Visa requirement or visa category for the traveler,Official government or visa source,string,API/Static
+adventure_score,Destination suitability for adventure travel,TRAVELIQ methodology,float,Derived
+beach_score,Destination suitability for beach travel,TRAVELIQ methodology,float,Derived
+nature_score,Destination suitability for nature travel,TRAVELIQ methodology,float,Derived
+culture_score,Destination suitability for culture travel,TRAVELIQ methodology,float,Derived
+food_score,Destination suitability for food experiences,TRAVELIQ methodology,float,Derived
+nightlife_score,Destination suitability for nightlife,TRAVELIQ methodology,float,Derived
+romance_score,Destination suitability for romantic travel,TRAVELIQ methodology,float,Derived
+wildlife_score,Destination suitability for wildlife experiences,TRAVELIQ methodology,float,Derived
+winter_score,Destination suitability for winter or snow experiences,TRAVELIQ methodology,float,Derived
+wellness_score,Destination suitability for wellness travel,TRAVELIQ methodology,float,Derived

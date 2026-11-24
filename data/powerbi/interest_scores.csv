@@ -1,0 +1,201 @@
+destination_name,state_region,destination_type,score,interest
+Hampi,Karnataka,Heritage,4.0,Adventure
+Mysuru,Karnataka,Heritage & Culture,2.0,Adventure
+Kumarakom,Kerala,Backwaters & Nature,3.0,Adventure
+Shillong,Meghalaya,Hill Station & Nature,6.0,Adventure
+Sohra,Meghalaya,Nature & Adventure,8.0,Adventure
+Jodhpur,Rajasthan,Heritage & Culture,4.0,Adventure
+Gangtok,Sikkim,Mountain & Nature,7.0,Adventure
+Leh,Ladakh,Mountain & Adventure,10.0,Adventure
+Kargil,Ladakh,Mountain & Heritage,8.0,Adventure
+Lakshadweep,Lakshadweep,Beach & Island,7.0,Adventure
+Puducherry,Puducherry,Beach & Culture,3.0,Adventure
+Gwalior,Madhya Pradesh,Heritage & Culture,2.0,Adventure
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,3.0,Adventure
+Amritsar,Punjab,Heritage & Culture,2.0,Adventure
+Kapurthala,Punjab,Heritage & Culture,1.0,Adventure
+Bundi,Rajasthan,Heritage & Culture,3.0,Adventure
+Mamallapuram,Tamil Nadu,Heritage & Beach,4.0,Adventure
+Nilgiris,Tamil Nadu,Hill Station & Nature,5.0,Adventure
+Agartala,Tripura,Culture & Heritage,3.0,Adventure
+Unakoti,Tripura,Heritage & Nature,4.0,Adventure
+Hampi,Karnataka,Heritage,0.0,Beach
+Mysuru,Karnataka,Heritage & Culture,0.0,Beach
+Kumarakom,Kerala,Backwaters & Nature,5.0,Beach
+Shillong,Meghalaya,Hill Station & Nature,0.0,Beach
+Sohra,Meghalaya,Nature & Adventure,0.0,Beach
+Jodhpur,Rajasthan,Heritage & Culture,0.0,Beach
+Gangtok,Sikkim,Mountain & Nature,0.0,Beach
+Leh,Ladakh,Mountain & Adventure,0.0,Beach
+Kargil,Ladakh,Mountain & Heritage,0.0,Beach
+Lakshadweep,Lakshadweep,Beach & Island,10.0,Beach
+Puducherry,Puducherry,Beach & Culture,7.0,Beach
+Gwalior,Madhya Pradesh,Heritage & Culture,0.0,Beach
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,0.0,Beach
+Amritsar,Punjab,Heritage & Culture,0.0,Beach
+Kapurthala,Punjab,Heritage & Culture,0.0,Beach
+Bundi,Rajasthan,Heritage & Culture,0.0,Beach
+Mamallapuram,Tamil Nadu,Heritage & Beach,7.0,Beach
+Nilgiris,Tamil Nadu,Hill Station & Nature,0.0,Beach
+Agartala,Tripura,Culture & Heritage,0.0,Beach
+Unakoti,Tripura,Heritage & Nature,0.0,Beach
+Hampi,Karnataka,Heritage,5.0,Nature
+Mysuru,Karnataka,Heritage & Culture,4.0,Nature
+Kumarakom,Kerala,Backwaters & Nature,9.0,Nature
+Shillong,Meghalaya,Hill Station & Nature,8.0,Nature
+Sohra,Meghalaya,Nature & Adventure,10.0,Nature
+Jodhpur,Rajasthan,Heritage & Culture,3.0,Nature
+Gangtok,Sikkim,Mountain & Nature,9.0,Nature
+Leh,Ladakh,Mountain & Adventure,10.0,Nature
+Kargil,Ladakh,Mountain & Heritage,8.0,Nature
+Lakshadweep,Lakshadweep,Beach & Island,8.0,Nature
+Puducherry,Puducherry,Beach & Culture,4.0,Nature
+Gwalior,Madhya Pradesh,Heritage & Culture,3.0,Nature
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,6.0,Nature
+Amritsar,Punjab,Heritage & Culture,2.0,Nature
+Kapurthala,Punjab,Heritage & Culture,2.0,Nature
+Bundi,Rajasthan,Heritage & Culture,4.0,Nature
+Mamallapuram,Tamil Nadu,Heritage & Beach,4.0,Nature
+Nilgiris,Tamil Nadu,Hill Station & Nature,9.0,Nature
+Agartala,Tripura,Culture & Heritage,5.0,Nature
+Unakoti,Tripura,Heritage & Nature,7.0,Nature
+Hampi,Karnataka,Heritage,9.0,Culture
+Mysuru,Karnataka,Heritage & Culture,9.0,Culture
+Kumarakom,Kerala,Backwaters & Nature,5.0,Culture
+Shillong,Meghalaya,Hill Station & Nature,5.0,Culture
+Sohra,Meghalaya,Nature & Adventure,4.0,Culture
+Jodhpur,Rajasthan,Heritage & Culture,9.0,Culture
+Gangtok,Sikkim,Mountain & Nature,5.0,Culture
+Leh,Ladakh,Mountain & Adventure,7.0,Culture
+Kargil,Ladakh,Mountain & Heritage,6.0,Culture
+Lakshadweep,Lakshadweep,Beach & Island,3.0,Culture
+Puducherry,Puducherry,Beach & Culture,7.0,Culture
+Gwalior,Madhya Pradesh,Heritage & Culture,9.0,Culture
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,8.0,Culture
+Amritsar,Punjab,Heritage & Culture,10.0,Culture
+Kapurthala,Punjab,Heritage & Culture,6.0,Culture
+Bundi,Rajasthan,Heritage & Culture,9.0,Culture
+Mamallapuram,Tamil Nadu,Heritage & Beach,9.0,Culture
+Nilgiris,Tamil Nadu,Hill Station & Nature,4.0,Culture
+Agartala,Tripura,Culture & Heritage,7.0,Culture
+Unakoti,Tripura,Heritage & Nature,8.0,Culture
+Hampi,Karnataka,Heritage,3.0,Food
+Mysuru,Karnataka,Heritage & Culture,7.0,Food
+Kumarakom,Kerala,Backwaters & Nature,7.0,Food
+Shillong,Meghalaya,Hill Station & Nature,5.0,Food
+Sohra,Meghalaya,Nature & Adventure,4.0,Food
+Jodhpur,Rajasthan,Heritage & Culture,7.0,Food
+Gangtok,Sikkim,Mountain & Nature,6.0,Food
+Leh,Ladakh,Mountain & Adventure,5.0,Food
+Kargil,Ladakh,Mountain & Heritage,4.0,Food
+Lakshadweep,Lakshadweep,Beach & Island,6.0,Food
+Puducherry,Puducherry,Beach & Culture,8.0,Food
+Gwalior,Madhya Pradesh,Heritage & Culture,5.0,Food
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,4.0,Food
+Amritsar,Punjab,Heritage & Culture,9.0,Food
+Kapurthala,Punjab,Heritage & Culture,5.0,Food
+Bundi,Rajasthan,Heritage & Culture,5.0,Food
+Mamallapuram,Tamil Nadu,Heritage & Beach,6.0,Food
+Nilgiris,Tamil Nadu,Hill Station & Nature,5.0,Food
+Agartala,Tripura,Culture & Heritage,5.0,Food
+Unakoti,Tripura,Heritage & Nature,4.0,Food
+Hampi,Karnataka,Heritage,1.0,Nightlife
+Mysuru,Karnataka,Heritage & Culture,3.0,Nightlife
+Kumarakom,Kerala,Backwaters & Nature,2.0,Nightlife
+Shillong,Meghalaya,Hill Station & Nature,4.0,Nightlife
+Sohra,Meghalaya,Nature & Adventure,1.0,Nightlife
+Jodhpur,Rajasthan,Heritage & Culture,3.0,Nightlife
+Gangtok,Sikkim,Mountain & Nature,3.0,Nightlife
+Leh,Ladakh,Mountain & Adventure,2.0,Nightlife
+Kargil,Ladakh,Mountain & Heritage,1.0,Nightlife
+Lakshadweep,Lakshadweep,Beach & Island,1.0,Nightlife
+Puducherry,Puducherry,Beach & Culture,5.0,Nightlife
+Gwalior,Madhya Pradesh,Heritage & Culture,2.0,Nightlife
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,1.0,Nightlife
+Amritsar,Punjab,Heritage & Culture,2.0,Nightlife
+Kapurthala,Punjab,Heritage & Culture,1.0,Nightlife
+Bundi,Rajasthan,Heritage & Culture,1.0,Nightlife
+Mamallapuram,Tamil Nadu,Heritage & Beach,3.0,Nightlife
+Nilgiris,Tamil Nadu,Hill Station & Nature,2.0,Nightlife
+Agartala,Tripura,Culture & Heritage,2.0,Nightlife
+Unakoti,Tripura,Heritage & Nature,1.0,Nightlife
+Hampi,Karnataka,Heritage,5.0,Romance
+Mysuru,Karnataka,Heritage & Culture,6.0,Romance
+Kumarakom,Kerala,Backwaters & Nature,9.0,Romance
+Shillong,Meghalaya,Hill Station & Nature,6.0,Romance
+Sohra,Meghalaya,Nature & Adventure,6.0,Romance
+Jodhpur,Rajasthan,Heritage & Culture,7.0,Romance
+Gangtok,Sikkim,Mountain & Nature,7.0,Romance
+Leh,Ladakh,Mountain & Adventure,6.0,Romance
+Kargil,Ladakh,Mountain & Heritage,3.0,Romance
+Lakshadweep,Lakshadweep,Beach & Island,9.0,Romance
+Puducherry,Puducherry,Beach & Culture,7.0,Romance
+Gwalior,Madhya Pradesh,Heritage & Culture,4.0,Romance
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,4.0,Romance
+Amritsar,Punjab,Heritage & Culture,4.0,Romance
+Kapurthala,Punjab,Heritage & Culture,3.0,Romance
+Bundi,Rajasthan,Heritage & Culture,6.0,Romance
+Mamallapuram,Tamil Nadu,Heritage & Beach,6.0,Romance
+Nilgiris,Tamil Nadu,Hill Station & Nature,7.0,Romance
+Agartala,Tripura,Culture & Heritage,4.0,Romance
+Unakoti,Tripura,Heritage & Nature,4.0,Romance
+Hampi,Karnataka,Heritage,2.0,Wildlife
+Mysuru,Karnataka,Heritage & Culture,2.0,Wildlife
+Kumarakom,Kerala,Backwaters & Nature,6.0,Wildlife
+Shillong,Meghalaya,Hill Station & Nature,4.0,Wildlife
+Sohra,Meghalaya,Nature & Adventure,5.0,Wildlife
+Jodhpur,Rajasthan,Heritage & Culture,1.0,Wildlife
+Gangtok,Sikkim,Mountain & Nature,4.0,Wildlife
+Leh,Ladakh,Mountain & Adventure,5.0,Wildlife
+Kargil,Ladakh,Mountain & Heritage,3.0,Wildlife
+Lakshadweep,Lakshadweep,Beach & Island,7.0,Wildlife
+Puducherry,Puducherry,Beach & Culture,2.0,Wildlife
+Gwalior,Madhya Pradesh,Heritage & Culture,1.0,Wildlife
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,3.0,Wildlife
+Amritsar,Punjab,Heritage & Culture,1.0,Wildlife
+Kapurthala,Punjab,Heritage & Culture,1.0,Wildlife
+Bundi,Rajasthan,Heritage & Culture,2.0,Wildlife
+Mamallapuram,Tamil Nadu,Heritage & Beach,2.0,Wildlife
+Nilgiris,Tamil Nadu,Hill Station & Nature,7.0,Wildlife
+Agartala,Tripura,Culture & Heritage,4.0,Wildlife
+Unakoti,Tripura,Heritage & Nature,4.0,Wildlife
+Hampi,Karnataka,Heritage,6.0,Winter
+Mysuru,Karnataka,Heritage & Culture,6.0,Winter
+Kumarakom,Kerala,Backwaters & Nature,4.0,Winter
+Shillong,Meghalaya,Hill Station & Nature,5.0,Winter
+Sohra,Meghalaya,Nature & Adventure,3.0,Winter
+Jodhpur,Rajasthan,Heritage & Culture,7.0,Winter
+Gangtok,Sikkim,Mountain & Nature,6.0,Winter
+Leh,Ladakh,Mountain & Adventure,2.0,Winter
+Kargil,Ladakh,Mountain & Heritage,1.0,Winter
+Lakshadweep,Lakshadweep,Beach & Island,4.0,Winter
+Puducherry,Puducherry,Beach & Culture,6.0,Winter
+Gwalior,Madhya Pradesh,Heritage & Culture,7.0,Winter
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,6.0,Winter
+Amritsar,Punjab,Heritage & Culture,5.0,Winter
+Kapurthala,Punjab,Heritage & Culture,4.0,Winter
+Bundi,Rajasthan,Heritage & Culture,7.0,Winter
+Mamallapuram,Tamil Nadu,Heritage & Beach,7.0,Winter
+Nilgiris,Tamil Nadu,Hill Station & Nature,5.0,Winter
+Agartala,Tripura,Culture & Heritage,5.0,Winter
+Unakoti,Tripura,Heritage & Nature,5.0,Winter
+Hampi,Karnataka,Heritage,4.0,Wellness
+Mysuru,Karnataka,Heritage & Culture,5.0,Wellness
+Kumarakom,Kerala,Backwaters & Nature,8.0,Wellness
+Shillong,Meghalaya,Hill Station & Nature,6.0,Wellness
+Sohra,Meghalaya,Nature & Adventure,7.0,Wellness
+Jodhpur,Rajasthan,Heritage & Culture,4.0,Wellness
+Gangtok,Sikkim,Mountain & Nature,6.0,Wellness
+Leh,Ladakh,Mountain & Adventure,6.0,Wellness
+Kargil,Ladakh,Mountain & Heritage,4.0,Wellness
+Lakshadweep,Lakshadweep,Beach & Island,8.0,Wellness
+Puducherry,Puducherry,Beach & Culture,7.0,Wellness
+Gwalior,Madhya Pradesh,Heritage & Culture,2.0,Wellness
+Chitrakoot,Madhya Pradesh / Uttar Pradesh,Spiritual & Nature,7.0,Wellness
+Amritsar,Punjab,Heritage & Culture,5.0,Wellness
+Kapurthala,Punjab,Heritage & Culture,2.0,Wellness
+Bundi,Rajasthan,Heritage & Culture,5.0,Wellness
+Mamallapuram,Tamil Nadu,Heritage & Beach,4.0,Wellness
+Nilgiris,Tamil Nadu,Hill Station & Nature,8.0,Wellness
+Agartala,Tripura,Culture & Heritage,4.0,Wellness
+Unakoti,Tripura,Heritage & Nature,5.0,Wellness

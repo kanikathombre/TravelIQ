@@ -1,0 +1,21 @@
+destination_name,country,country_code,source,source_type,geo_name,mapping_type,latitude,longitude,population,region_code,timezone,match_status
+Hampi,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Hampi,exact_city,15.3352,76.4603,10000.0,19,Asia/Kolkata,mapped
+Mysuru,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Mysuru,exact_city,12.29791,76.63925,920550.0,19,Asia/Kolkata,mapped
+Kumarakom,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Kumarakom,destination_area,9.617119,76.429482,,,,mapped
+Shillong,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Shillong,exact_city,25.56892,91.88313,143229.0,18,Asia/Kolkata,mapped
+Sohra,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Cherrapunjee,alternate_name,25.30089,91.69619,11722.0,18,Asia/Kolkata,mapped
+Jodhpur,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Jodhpur,exact_city,26.26841,73.00594,1056191.0,24,Asia/Kolkata,mapped
+Gangtok,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Gangtok,exact_city,27.32574,88.61216,100286.0,29,Asia/Kolkata,mapped
+Leh,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Leh,exact_city,34.16504,77.58402,37475.0,41,Asia/Kolkata,mapped
+Kargil,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Kargil,exact_city,34.55765,76.12622,16338.0,41,Asia/Kolkata,mapped
+Lakshadweep,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Kavaratti,representative_location,10.56688,72.64203,11210.0,14,Asia/Kolkata,mapped
+Puducherry,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Puducherry,exact_city,11.93381,79.82979,657209.0,22,Asia/Kolkata,mapped
+Gwalior,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Gwalior,exact_city,26.22983,78.17337,1054420.0,35,Asia/Kolkata,mapped
+Chitrakoot,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Chitrakoot Dham,alternate_name,25.21473,80.91645,23316.0,36,Asia/Kolkata,mapped
+Amritsar,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Amritsar,exact_city,31.62234,74.87534,1159227.0,23,Asia/Kolkata,mapped
+Kapurthala,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Kapurthala Town,alternate_name,31.38011,75.38105,98916.0,23,Asia/Kolkata,mapped
+Bundi,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Būndi,alternate_name,25.43855,75.63735,104919.0,24,Asia/Kolkata,mapped
+Mamallapuram,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Mahabalipuram,alternate_name,12.62091,80.19331,15172.0,25,Asia/Kolkata,mapped
+Nilgiris,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Udhagamandalam,destination_region,11.4,76.7333,,,,mapped
+Agartala,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Agartala,exact_city,23.83605,91.27939,400004.0,26,Asia/Kolkata,mapped
+Unakoti,India,IN,Government of India - Swadesh Darshan 2.0,Official tourism source,Unakoti,destination_region,24.31661,92.06661,,,,mapped
